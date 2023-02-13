@@ -55,3 +55,12 @@
     border-radius: 10px;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
     }
+    .TypingScript {
+        margin-bottom: 20px;
+        font-size: 26px;
+        text-align: center;
+        color: black;
+        text-shadow: 0 0 5px white, 0 0 10px white, 0 0 15px white, 0 0 20px #663399, 0 0 30px #663399, 0 0 40px #663399, 0 0 55px #663399, 0 0 75px #663399;
+       
+    }
+      

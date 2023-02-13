@@ -77,6 +77,11 @@ const TypingBox = () => {
   return (
    <div>
   <div className="TypingBox">
+  <div className="TypingScript">
+  <p> Typing Script</p>
+</div>
+
+
       {!startPractice && (
         <button onClick={startTimer}>Start Practice</button>
       )}
